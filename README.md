@@ -5,8 +5,7 @@ This is the official GitHub repository for Mr. Bock´s IT class in Q3@FLS Wiesba
 
 # Notenzusammensetzung
 
-> 70% Arbeit an den Robotern im Unterricht --> Funktionalitätstest (50%) und kommentierte Codes (50%)
-  30% Klausur --> Praktische Anwendung (21.12.)
+> 70% Arbeit an den Robotern im Unterricht --> Funktionalitätstest (50%) und kommentierte Codes (50%)<br>30% Klausur --> Praktische Anwendung (21.12.)
 
 
 ## Funktionalitätstest im Unterricht

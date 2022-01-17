@@ -20,3 +20,5 @@ This is the official GitHub repository for Mr. Bock´s IT class in Q3@FLS Wiesba
 | Gyrosensoren | 23. & 30.11. | 30.11. 3. Std. | 30.11. 23:59 Uhr - nur die wichtigen Stellen sind zu kommentieren |
 | Komplexe Aufgabe | 07. & 14.12. | 07.12. 3. Std. | 14.12. 23:59 Uhr - nur die wichtigen Stellen sind zu kommentieren |
 | Klausur | 21.12. |||
+
+<hr>
